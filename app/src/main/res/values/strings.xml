@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+
+
+    <string-array name= "quotes">
+
+        <item>Laugh and the world laughs with you, snore and you
+ sleep alone. Anthony Burgess</item>
+
+<item>A successful man is one who makes more money than his
+ wife can spend. A successful woman is one who can
+ find such a man.  Lana Turner </item>
+
+<item>Roses are red, violets are blue, Im schizophrenic,
+ and so am I.
+  Oscar Levant </item>
+
+<item>A womans mind is cleaner than a mans: She changes it
+ more often.   Oliver Herford </item>
+
+<item>Behind every great man is a woman rolling her eyes.
+ Jim Carrey </item>
+
+<item>People who think they know everything are a great
+ annoyance to those of us who do.  Isaac Asimov </item>
+
+<item>The universe is a big place, perhaps the biggest.
+  Kurt Vonnegut </item>
+
+<item>Conscience is a mother.in.law whose visit never ends.
+ H. L. Mencken </item>
+
+<item>Legend A lie that has attained the dignity of age.
+  H. L. Mencken </item>
+
+<item> The only really happy folk are married women and single men.
+  H. L. Mencken</item>
+
+<item>There is always an easy solution to every problem - neat,
+ plausible, and wrong.  H. L. Mencken </item>
+
+<item>Marriage is a wonderful institution, but who would want to
+ live in an institution?  H. L. Mencken </item>
+
+<item>Strike an average between what a woman thinks of her husband
+ a month before she marries him and what she thinks of him a
+ year afterward, and you will have the truth about him.
+  H. L. Mencken </item>
+
+<item>An idealist is one who, on noticing that a rose smells better
+ than a cabbage, concludes that it will also make better
+ soup. H. L. Mencken </item>
+
+<item>A cynic is a man who, when he smells flowers, looks around
+ for a coffin. H. L. Mencken </item>
+
+<item>Marge: Now, I know you havent liked some of my past
+       suggestions, like switching to the metric system
+Abe: The metric system is the tool of the devil! My car
+     gets forty rods to the hogshead and thats the way
+     I likes it.
+  The Simpsons episode A Star is Burns </item>
+
+<item>Lets be very honest about what this is about. Its not about
+ bashing Democrats, its not about taxes, they have no idea what
+ the Boston tea party was about, they dont know their history
+ at all. This is about hating a black man in the White House.
+ This is racism straight up. Janeane Garofalo </item>
+
+<item>If Barbie is so popular, why do you have to buy her
+ friends?  Steven Wright </item>
+
+<item>We can repair anything. (Please knock hard on the door -
+ the bell doesnt work.
+  Sign on door of repair shop </item>
+
+<item>A verbal contract is not worth the paper its written on.  Samuel Goldwyn </item>
+
+<item>Facts are stupid things.
+ Ronald Reagan, Former U.S. President </item>
+
+
+
+
+
+    </string-array>
+</resources>
